@@ -38,7 +38,7 @@ ul {
 }
 
 div {
-	background: white;
+	background:rgb(30, 30, 30) ;
 	box-shadow: 0 10px 30px rgba(0,0,0,.1);
 	width: 600px;
 	margin: 15px auto;
