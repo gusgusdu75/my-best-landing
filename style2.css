@@ -38,7 +38,7 @@ ul {
 }
 
 div {
-	background:rgb(30, 30, 30) ;
+	background:rgb(70, 70, 70) ;
 	box-shadow: 0 10px 30px rgba(0,0,0,.1);
 	width: 600px;
 	margin: 15px auto;
@@ -48,7 +48,7 @@ div {
 }
 
 p {
-	color: rgb(77, 30, 0);;
+	color: rgb:black;
 	width: 550px;
 	text-align: center;
 	margin: 0px auto;
